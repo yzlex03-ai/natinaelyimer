@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="NY Monogram">
+  <rect width="64" height="64" rx="14" fill="#0B1012"/>
+  <rect x="3" y="3" width="58" height="58" rx="11" fill="none" stroke="#C8A66A" stroke-opacity="0.4" stroke-width="1.5"/>
+  <path d="M15 44V20h4.5l11 16.5V20H35v24h-4.3L19.5 27.2V44H15z" fill="#F5F3EB"/>
+  <path d="M40.5 20l5 9.2 5-9.2H55l-7.3 13.2V44h-4.4V33.2L36 20h4.5z" fill="#78B99B"/>
+  <circle cx="53.5" cy="41.5" r="2.5" fill="#C8A66A"/>
+</svg>

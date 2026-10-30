@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" role="img" aria-label="Natinael Yimer - Law, Artificial Intelligence and Technology">
+  <defs>
+    <radialGradient id="glow" cx="80%" cy="20%" r="60%">
+      <stop offset="0%" stop-color="#78B99B" stop-opacity="0.18"/>
+      <stop offset="55%" stop-color="#C8A66A" stop-opacity="0.06"/>
+      <stop offset="100%" stop-color="#0B1012" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="48" height="48" patternUnits="userSpaceOnUse">
+      <path d="M 48 0 L 0 0 0 48" fill="none" stroke="#899794" stroke-opacity="0.08" stroke-width="1"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="630" fill="#0B1012"/>
+  <rect width="1200" height="630" fill="url(#grid)"/>
+  <rect width="1200" height="630" fill="url(#glow)"/>
+  <rect x="48" y="48" width="1104" height="534" rx="20" fill="#101719" fill-opacity="0.78" stroke="#C8A66A" stroke-opacity="0.28" stroke-width="1.5"/>
+
+  <text x="108" y="148" fill="#C8A66A" font-family="monospace" font-size="18" letter-spacing="3">ETHIOPIA · LAW × TECHNOLOGY × AI</text>
+  <text x="108" y="255" fill="#F5F3EB" font-family="Georgia, serif" font-size="78" font-weight="normal">Natinael Yimer</text>
+  <text x="108" y="330" fill="#78B99B" font-family="sans-serif" font-size="32" font-weight="600">Building at the intersection of law, AI, and technology.</text>
+  <text x="108" y="410" fill="#899794" font-family="sans-serif" font-size="24">Founder &amp; CEO of YZlex · LLB Student at Wolaita Sodo University</text>
+  <text x="108" y="510" fill="#F5F3EB" font-family="monospace" font-size="20" opacity="0.85">natinaelyimer.com</text>
+
+  <g transform="translate(930, 195)">
+    <rect width="160" height="160" rx="28" fill="#0B1012" stroke="#78B99B" stroke-opacity="0.4" stroke-width="2"/>
+    <text x="34" y="102" fill="#F5F3EB" font-family="Georgia, serif" font-size="66">NY</text>
+    <circle cx="132" cy="96" r="6" fill="#C8A66A"/>
+  </g>
+</svg>
